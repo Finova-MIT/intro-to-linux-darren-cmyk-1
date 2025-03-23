@@ -146,3 +146,13 @@ After successfully installing a Linux distro, create a write-up in your reposito
 ```
 
 Good Luck! If you have any questions, or you got stuck along the way, feel free to ask me questions in the WhatsApp groupchat! You can even discuss about your tasks there.
+
+
+# Proof of Completion
+
+## Name:
+DARREN CLEMENT PAIS
+## Registration Number:
+240905093
+## Screenshot of Terminal:
+(Attach the screenshot of your Linux terminal)
