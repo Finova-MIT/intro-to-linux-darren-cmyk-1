@@ -155,4 +155,5 @@ DARREN CLEMENT PAIS
 ## Registration Number:
 240905093
 ## Screenshot of Terminal:
-(Attach the screenshot of your Linux terminal)
+<img width="1022" alt="image" src="https://github.com/user-attachments/assets/ec82dec5-4846-4458-8558-59a2ce9840a8" />
+
